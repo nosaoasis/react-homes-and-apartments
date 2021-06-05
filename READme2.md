@@ -1,1 +1,1 @@
-stopped at 05hr 36mins and 00 secs
+stopped at 06hr 36mins and 00 secs
