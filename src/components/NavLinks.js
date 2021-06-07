@@ -18,6 +18,11 @@ const NavLinks = () => {
       component: { Rooms },
       page_name: "Services",
       to_path: "/rooms"
+    },
+    {
+      component: { Rooms },
+      page_name: "Games",
+      to_path: "/rooms"
     }
   ];
 
